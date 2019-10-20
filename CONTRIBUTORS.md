@@ -5,3 +5,9 @@
 - Bio: Google DevG Co-Lead • Facebook DevC Speaker • DataCamp & DevC's ML Scholar • Full Stack Web Dev • Founded 3 startups
 - Github: https://github.com/monkfromearth
 ***
+
+### Ujjawal Mittal  
+- Location: BHopal, Indore
+- Bio: Student ^ developer
+- Github: https://github.com/ujjawalmittal
+
