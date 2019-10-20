@@ -11,3 +11,26 @@
 - Bio: Student ^ developer
 - Github: https://github.com/ujjawalmittal
 
+### Sheeraz Ali
+- Location: Bhopal, India
+- Bio: Kaafi Cool Hacker
+- Github: https://github.com/sheerazali19/hacktoberfest19
+***
+
+### Hrishikesh rai
+- Location: Bhopal, India
+- Bio: Full stack developer
+- Github: https://github.com/sskywalker
+***
+
+### Elon Muska Mat Laga
+- Location: Bhopal, India
+- Bio: Entrepreneur
+- Github: https://github.com/elonmuskamatlaga
+***
+
+### Elon Muska Mat Laga
+- Location: Bhopal, India
+- Bio: Entrepreneur
+- Github: https://github.com/elonmuskamatlaga
+***
