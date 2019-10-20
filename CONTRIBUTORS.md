@@ -6,6 +6,11 @@
 - Github: https://github.com/monkfromearth
 ***
 
+### Ujjawal Mittal  
+- Location: BHopal, Indore
+- Bio: Student ^ developer
+- Github: https://github.com/ujjawalmittal
+
 ### Sheeraz Ali
 - Location: Bhopal, India
 - Bio: Kaafi Cool Hacker
