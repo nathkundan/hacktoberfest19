@@ -40,3 +40,9 @@
 - Bio: wuahh wuahhh
 - Github: https://github.com/wuahwuah
 ***
+
+### Harshit Richariya
+- Location: Bhopal, India
+- Bio: MERN stack web developer
+- Github: https://github.com/HarshitRichariya
+***
