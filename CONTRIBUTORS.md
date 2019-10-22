@@ -43,6 +43,6 @@
 
 ### Harshit Richariya
 - Location: Bhopal, India
-- Bio: MERN stack web developer
+- Bio: MERN Stack Web Developer
 - Github: https://github.com/HarshitRichariya
 ***
