@@ -46,3 +46,9 @@
 - Bio: Curious Learner
 - Github: https://github.com/aamirv1
 ***
+
+### Harshit Richariya
+- Location: Bhopal, India
+- Bio: MERN Stack Web Developer
+- Github: https://github.com/HarshitRichariya
+***
