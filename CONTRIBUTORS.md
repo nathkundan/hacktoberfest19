@@ -41,6 +41,12 @@
 - Github: https://github.com/wuahwuah
 ***
 
+### Mohammed Aamir Khan
+- Location: Nagda, India
+- Bio: Curious Learner
+- Github: https://github.com/aamirv1
+***
+
 ### Harshit Richariya
 - Location: Bhopal, India
 - Bio: MERN Stack Web Developer
