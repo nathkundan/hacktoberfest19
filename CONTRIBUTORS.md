@@ -40,3 +40,9 @@
 - Bio: wuahh wuahhh
 - Github: https://github.com/wuahwuah
 ***
+
+### Mohammed Aamir Khan
+- Location: Nagda, India
+- Bio: Curious Learner
+- Github: https://github.com/aamirv1
+***
