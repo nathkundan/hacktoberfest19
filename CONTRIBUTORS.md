@@ -52,3 +52,9 @@
 - Bio: MERN Stack Web Developer
 - Github: https://github.com/HarshitRichariya
 ***
+
+### Kundan Nath
+- Location: Bhopal, India
+- Bio: Data Analyst
+- Github: https://github.com/nathkundan
+***
